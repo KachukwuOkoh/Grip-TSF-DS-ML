@@ -1,5 +1,5 @@
 # Grip-TSF-DS-ML
-All task concerning Data Science and Machine Learning with The Spark Foundation. 
+All task concerning Data Science (Analytics) and Machine Learning with The Sparks Foundation. 
 
 The tasks containing the codes are the files starting with TSF_
 
